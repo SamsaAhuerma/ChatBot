@@ -9,7 +9,7 @@ DeltoBot es un bot de Telegram que interactúa con los usuarios proporcionando i
 **Menú Principal**
 - **¡Quiero saber el clima!**: El bot proporciona la temperatura actual y condiciones climáticas en una ciudad específica, utilizando la API de OpenWeatherMap. Además, incluye una recomendación basada en el clima (por ejemplo, "Lleva un paraguas" si está lloviendo).
 - **¡Quiero contar!**: Un contador que incrementa en uno cada vez que el usuario interactúa con esta opción. El contador es único para cada usuario y persiste incluso después de que el bot se reinicie.
--**Análisis de Sentimiento**
+- **Análisis de Sentimiento**:
 El bot permite enviar una conversación del usuario para analizar el sentimiento de la misma utilizando la API de OpenAI. La respuesta se clasifica como Positiva, Neutral o Negativa con una breve justificación y sugerencias motivacionales.
 
 **Respuesta Inteligente**
@@ -70,7 +70,7 @@ Dicho esto, sigue...
 #### **Justificación de la Funcionalidad Libre**
 
 He añadido la funcionalidad de notificación sobre cambios climáticos para mejorar la experiencia del usuario. Dado que el clima puede variar rápidamente, muchas personas planifican su día en función de la previsión meteorológica. Esta característica ayuda a los usuarios a ajustarse a cambios repentinos en el clima, garantizando que su planificación diaria sea más precisa.
-**Aquí debo agregar** *nota importante* debido al uso del inglés en el código, encontrarán cosas como: 'Watch out!', 'Hey!', que lejos de ser erradas expresiones o alucinaciones del lenguaje, son jerga oculta del argentinismo más puro, **tradúzcase, por favor, como: ¡OJO!** y **¡CHE!**, respectivamente.
+- **Aquí debo agregar** *nota importante* debido al uso del inglés en el código, encontrarán cosas como: 'Watch out!', 'Hey!', que lejos de ser erradas expresiones o alucinaciones del lenguaje, son jerga oculta del argentinismo más puro, **tradúzcase, por favor, como: ¡OJO!** y **¡CHE!**, respectivamente.
 
 #### **Recomendaciones para Mejorar la Experiencia**
 
