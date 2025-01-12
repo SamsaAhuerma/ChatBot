@@ -9,8 +9,7 @@ DeltoBot es un bot de Telegram que interactúa con los usuarios proporcionando i
 **Menú Principal**
 - **¡Quiero saber el clima!**: El bot proporciona la temperatura actual y condiciones climáticas en una ciudad específica, utilizando la API de OpenWeatherMap. Además, incluye una recomendación basada en el clima (por ejemplo, "Lleva un paraguas" si está lloviendo).
 - **¡Quiero contar!**: Un contador que incrementa en uno cada vez que el usuario interactúa con esta opción. El contador es único para cada usuario y persiste incluso después de que el bot se reinicie.
-- **Análisis de Sentimiento**:
-El bot permite enviar una conversación del usuario para analizar el sentimiento de la misma utilizando la API de OpenAI. La respuesta se clasifica como Positiva, Neutral o Negativa con una breve justificación y sugerencias motivacionales.
+- **Análisis de Sentimiento**: El bot permite enviar una conversación del usuario para analizar el sentimiento de la misma utilizando la API de OpenAI. La respuesta se clasifica como Positiva, Neutral o Negativa con una breve justificación y sugerencias motivacionales.
 
 **Respuesta Inteligente**
 
