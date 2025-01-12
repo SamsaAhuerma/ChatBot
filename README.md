@@ -69,7 +69,7 @@ Dicho esto, sigue...
 #### **Justificación de la Funcionalidad Libre**
 
 He añadido la funcionalidad de notificación sobre cambios climáticos para mejorar la experiencia del usuario. Dado que el clima puede variar rápidamente, muchas personas planifican su día en función de la previsión meteorológica. Esta característica ayuda a los usuarios a ajustarse a cambios repentinos en el clima, garantizando que su planificación diaria sea más precisa.
-- **Aquí debo agregar** *nota importante* debido al uso del inglés en el código, encontrarán cosas como: 'Watch out!', 'Hey!', que lejos de ser erradas expresiones o alucinaciones del lenguaje, son jerga oculta del argentinismo más puro, **tradúzcase, por favor, como: ¡OJO!** y **¡CHE!**, respectivamente.
+- **Aquí debo agregar** *nota importante* : debido al uso del inglés en el código, encontrarán cosas como:  'Watch out!', 'Hey!', que, lejos de ser erradas expresiones o alucinaciones del lenguaje, son jerga oculta del argentinismo más puro, **tradúzcase, por favor, como: ¡OJO!** y **¡CHE!**, respectivamente.
 
 #### **Recomendaciones para Mejorar la Experiencia**
 
@@ -90,4 +90,4 @@ Este proyecto está bajo la Licencia MIT. Para más detalles, consulta el archiv
 
 A pesar de los tiempos ajustados, disfruté mucho trabajando en este proyecto y, en el futuro, estaría encantada de explorar más funcionalidades, incluyendo la integración de React (¡no lo olvidaré!).
 
-¡¡Gracias!!
+**¡¡Gracias!!**
