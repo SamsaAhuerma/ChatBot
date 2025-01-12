@@ -90,4 +90,4 @@ Este proyecto está bajo la Licencia MIT. Para más detalles, consulta el archiv
 
 A pesar de los tiempos ajustados, disfruté mucho trabajando en este proyecto y, en el futuro, estaría encantada de explorar más funcionalidades, incluyendo la integración de React (¡no lo olvidaré!).
 
-**¡¡Gracias!!**
+*¡¡Gracias!!*
