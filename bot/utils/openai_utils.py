@@ -16,8 +16,8 @@ def analyze_sentiment(text_s):
         model="gpt-4o-mini",
         messages=[
             {"role": "system", "content": "You are an assistant that responds only in English."},
-            {"role": "user", "content": f"Analyze the sentiment of the following text in Spanish and classify it as positive, neutral, or negative. Provide the classification, a brief justification, and a motivational suggestion. Ensure the response does not exceed 30 words, formatted in bullet points for clarity :\n\n{text_s}"}
-        ],Ensure the response does not exceed 30 words
+            {"role": "user", "content": f"Analyze the sentiment of the following text in Spanish and classify it as positive, neutral, or negative. Provide the classification, a brief justification, and a motivational suggestion. Ensure the response does not exceed 30 words, and format it in a simple, concise manner without bullet points or symbols:\n\n{text_s}"}
+        ],
         max_tokens=50
     )
     sentiment = response.choices[0].message.content
