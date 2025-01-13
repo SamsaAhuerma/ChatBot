@@ -21,27 +21,21 @@ async def menu_callback(update: Update, context: ContextTypes.DEFAULT_TYPE) -> N
     await query.answer()
 
     if query.data == 'climate':
-        print("Handling weather! \n")
         await query.edit_message_text("Which city would you like a weather forecast for?")
         context.user_data['waiting_for_city'] = True
     elif query.data == 'counter':
-        print("Handling counter! \n")
-        print("UPDATE DEL COUNTER",update)
         user_id = update.effective_user.id
         new_counter = increment_counter(user_id)
         await query.edit_message_text(f"Your current counter is: {new_counter}")
     elif query.data == 'analyze_sentiment':
-        print("Handling sentiment! \n")
         await query.edit_message_text("Please send the text you would like to analyze for sentiment.")
         context.user_data['waiting_for_sentiment'] = True
 
 
 #Función que maneja los distintos mensajes
 async def handle_message(update, context):
-    print("SS")
     if context.user_data.get('waiting_for_city', False):
         city = update.message.text
-        print(city, update)
         context.user_data['city'] = city 
 
         climate_info = get_climate(city) 
@@ -49,7 +43,7 @@ async def handle_message(update, context):
 
         curiosities_info = generate_response_climate(city)
         
-        combined_response = f"{climate_info}\n\nCuriosidades sobre {city}:\n{curiosities_info}"
+        combined_response = f"{climate_info}\n\nInteresting facts about {city}:\n{curiosities_info}"
         
         await update.message.reply_text(combined_response)
         
