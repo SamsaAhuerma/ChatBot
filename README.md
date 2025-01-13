@@ -75,6 +75,7 @@ He añadido la funcionalidad de notificación sobre cambios climáticos para mej
 
 - Considerar la integración con otras APIs de clima para ofrecer información más detallada, como pronósticos a largo plazo.
 - Ampliar la funcionalidad de análisis de sentimiento para incluir una clasificación más detallada de las emociones, como "tristeza", "alegría", o recursos que mejoren la experiencia de usuario como un micro chat de compañia o motivación, etc.
+- Mejorar la navegación del bot para que, tras responder, se envíen automáticamente las opciones disponibles, sin necesidad de escribir '/start' nuevamente.
 
 #### **Contribuciones**
 
