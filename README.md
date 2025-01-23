@@ -77,14 +77,6 @@ He añadido la funcionalidad de notificación sobre cambios climáticos para mej
 - Ampliar la funcionalidad de análisis de sentimiento para incluir una clasificación más detallada de las emociones, como "tristeza", "alegría", o recursos que mejoren la experiencia de usuario como un micro chat de compañia o motivación, etc.
 - Mejorar la navegación del bot para que, tras responder, se envíen automáticamente las opciones disponibles, sin necesidad de escribir '/start' nuevamente.
 
-#### **Contribuciones**
-
-Si deseas contribuir a este proyecto, por favor haz un fork del repositorio, realiza tus cambios y abre un pull request. Cualquier mejora o sugerencia será bienvenida.
-
-#### **Licencia**
-
-Este proyecto está bajo la Licencia MIT. Para más detalles, consulta el archivo LICENSE.
-
 ---
 
 ### **Saludo general**
