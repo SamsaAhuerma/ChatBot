@@ -81,6 +81,6 @@ He añadido la funcionalidad de notificación sobre cambios climáticos para mej
 
 ### **Saludo general**
 
-A pesar de los tiempos ajustados, disfruté mucho trabajando en este proyecto y, en el futuro, estaría encantada de explorar más funcionalidades, incluyendo la integración de React (¡no lo olvidaré!).
+A pesar de los tiempos ajustados, disfruté mucho trabajando en este proyecto y, en el futuro, estaría encantada de explorar más funcionalidades, incluyendo la integración de React.
 
 *¡¡Gracias!!*
