@@ -4,6 +4,10 @@
 
 DeltoBot es un bot de Telegram que interactúa con los usuarios proporcionando información sobre el clima, analiza el sentimiento de los comentarios del usuario y ofrece respuestas inteligentes utilizando la API de OpenAI. Además, cuenta con una funcionalidad libre que avisa sobre cambios en el clima para mejorar la planificación diaria de los usuarios.
 
+📌 Nota importante:
+Este bot fue creado hace unos 5-6 meses como una primera aproximación al desarrollo de asistentes conversacionales con IA. Si bien cumple con varias funcionalidades útiles, muchas de las tecnologías que usé han evolucionado y hoy existen formas más robustas y eficientes de implementarlas.
+Actualmente estoy trabajando en nuevas versiones con herramientas más especializadas. Próximamente estaré compartiendo una implementación de bots mejorada!
+
 #### **Funcionalidades**
 
 **Menú Principal**
